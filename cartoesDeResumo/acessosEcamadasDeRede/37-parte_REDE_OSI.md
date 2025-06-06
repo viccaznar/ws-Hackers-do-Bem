@@ -20,10 +20,7 @@ Ao enviar um e-mail, a sua mensagem é dividida em vários pacotes. Cada pacote 
 - **Encaminhamento (Forwarding):** Seleciona o melhor caminho para os pacotes com base em tabelas de roteamento.  
 - **Roteamento:** Determina a rota ideal para que os pacotes atravessem redes diversas para alcançar o destino final.  
 - **Fragmentação e Reagrupamento:** Divide pacotes grandes para que possam ser enviados por redes com limites de tamanho (MTU) menores e os reagrupa no destino.  
-- **Endereçamento Lógico:** Utiliza endereços IP para identificar de forma única os dispositivos na rede e facilitar a comunicação global.  
-
-*Emoticons:*  
-🗺️🔀
+- **Endereçamento Lógico:** Utiliza endereços IP para identificar de forma única os dispositivos na rede e facilitar a comunicação global.🗺️🔀
 
 ---
 
