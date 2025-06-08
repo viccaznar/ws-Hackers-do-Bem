@@ -1,0 +1,5 @@
+Identifique todos os conceitos mencionados no texto. Organize em tópicos objetivos explicando cada fundamento. Insira um exemplo lúdico e um exemplo prático. Coloque a saída em um único bloco no formato markdown com emoticons ilustrando cada explicação.
+
+O que são numeros binarios?
+
+Como é feito o calculo e as conversões de números binários?
